@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "887345694195",
+    "firebase_url": "https://bookin-d0b51-default-rtdb.firebaseio.com",
+    "project_id": "bookin-d0b51",
+    "storage_bucket": "bookin-d0b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887345694195:android:eacd948ec0e040fe91be86",
+        "android_client_info": {
+          "package_name": "com.matricaconsulting.bookin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887345694195-squbnqk1jsh9v8r3dv1gm1rcb3j644qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoyGiQ8LVZnjFznpkzVT1qMefZDyqsoPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887345694195-squbnqk1jsh9v8r3dv1gm1rcb3j644qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887345694195:android:72b23c8347370e5691be86",
+        "android_client_info": {
+          "package_name": "com.matricaconsulting.simplebooklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887345694195-squbnqk1jsh9v8r3dv1gm1rcb3j644qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoyGiQ8LVZnjFznpkzVT1qMefZDyqsoPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887345694195-squbnqk1jsh9v8r3dv1gm1rcb3j644qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
